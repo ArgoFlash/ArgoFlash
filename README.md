@@ -1,9 +1,9 @@
 <!-- BANNIÈRE -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQG0q7nU-KyVjw/profile-displaybackgroundimage-shrink_350_1400/B4EZfc9_mRGwAg-/0/1751758929001?e=1758153600&v=beta&t=N-Szcl36Ro45VdxPmR57b0CjKSfVLoMU65OcqkCxEFU" alt="Flash Banner" width="100%" />
-</p>
+</p>-->
 
-<h1 align="center">⚡ Romain aka ArgoFlash ⚡</h1>
+<h1 align="center">⚡ Romain Arès aka ArgoFlash ⚡</h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQGpfY61Zovkhg/profile-displayphoto-crop_800_800/B4DZgRS2FLG8AM-/0/1752636812100?e=1758153600&v=beta&t=4LY_W8qNOk7Zhftr1JtJASGGTqVsPb3Oy4NBJpWnBiI" alt="Photo de profil de Romain Arès" width="150" />
