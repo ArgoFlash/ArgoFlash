@@ -41,10 +41,10 @@
 
 ## 🔗 Liens utiles
 
-- 📌 [LinkedIn](https://www.linkedin.com/in/romain-ares/) **top 2%**
+- 📌 [LinkedIn](https://www.linkedin.com/in/romain-ares/) -> **top 2%**
 - 💌 [Newsletter Boost&Shine](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7313721055716495360)
 - 💬 [Discord Boost&Shine](https://discord.gg/F6uSHqUAKB)
-- 🟡 [CodinGame](https://www.codingame.com/profile/e234d6b24acc99e847d139a118db7cc97222874) **top 0.1%**
+- 🟡 [CodinGame](https://www.codingame.com/profile/e234d6b24acc99e847d139a118db7cc97222874) -> **top 0.1%**
 
 ---
 
