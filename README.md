@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Romain aka ArgoFlash ⚡</h1>
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGtSyAufAI/WU6rTXQgi1Z_Di3H605SnQ/view" alt="Photo de profil de Romain Arès" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGpfY61Zovkhg/profile-displayphoto-crop_800_800/B4DZgRS2FLG8AM-/0/1752636812100?e=1758153600&v=beta&t=4LY_W8qNOk7Zhftr1JtJASGGTqVsPb3Oy4NBJpWnBiI" alt="Photo de profil de Romain Arès" width="150" />
 </p>
 
 <p align="center">
