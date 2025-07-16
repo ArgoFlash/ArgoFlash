@@ -6,6 +6,10 @@
 <h1 align="center">⚡ Romain aka ArgoFlash ⚡</h1>
 
 <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQFzsQV_mO7Rjw/profile-displayphoto-crop_800_800/B4EZfc.NaBG4AI-/0/1751758987561?e=1758153600&v=beta&t=2nAtoihPnnYZxz51MZe7zjuA2gEDswAY-USD0elAFbM" alt="Photo de profil de Romain Arès" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <em>Développeur frontend ultra-rapide | Mentor de développeurs juniors | Partageur de valeur</em>
 </p>
 
