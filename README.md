@@ -47,6 +47,33 @@
 
 ---
 
+## 🧠 Stack & Technologies
+
+### ⚙️ Langages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,jquery,nodejs,express,python" alt="Langages et Frameworks" />
+</p>
+
+### 🗃️ Bases de données
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de données" />
+</p>
+
+### 🎨 UI & Libs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="UI et Librairies" />
+</p>
+
+### 🧩 Autres compétences
+
+Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD  
+Machine Learning · LLM  
+Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)
+
+
 > "Le code rapide, c’est bien. Le code utile, c’est mieux." —> Arès Romain 🟥🟨
 
 
