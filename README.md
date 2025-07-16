@@ -50,25 +50,25 @@
 
 <h2 align="center">🧠 Stack & Technologies</h2>
 
-<h2 align="center">⚙️ Langages & Frameworks</h2>
+<h3 align="center">⚙️ Langages & Frameworks</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,jquery,nodejs,express,python" alt="Langages et Frameworks" />
 </p>
 
-<h2 align="center"> 🗃️ Bases de données<h2 />
+<h3 align="center"> 🗃️ Bases de données</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de données" />
 </p>
 
-<h2 align="center">🎨 UI & Libs</h2>
+<h3 align="center">🎨 UI & Libs</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="UI et Librairies" />
 </p>
 
-<h2 align="center">🧩 Autres compétences</h2>
+<h3 align="center">🧩 Autres compétences</h3>
 
 <p align="center">Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD  
 Machine Learning · LLM  
