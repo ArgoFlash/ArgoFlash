@@ -15,7 +15,7 @@
 
 ---
 
-## 📈 Statistiques GitHub
+<h2 align="center">📈 Statistiques GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArgoFlash&show_icons=true&theme=maroongold&hide_title=true" alt="Stats GitHub" />
