@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,jquery,nodejs,express,python" alt="Langages et Frameworks" />
 </p>
 
-### 🗃️ Bases de données
+<h2 align="center">### 🗃️ Bases de données<h2 />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de données" />
