@@ -31,20 +31,20 @@
 
 ---
 
-<h2 align="center">⚡ Présentation rapide</h2>
+## ⚡ Présentation rapide
 
-<p align="center">- 💼 Je construis des outils pour les devs qui veulent gagner en visibilité et percer sur le marché.</p>
-<p align="center">- 🔥 Je partage mes projets, formations et conseils chaque semaine.</p>
-<p align="center">- 🧠 J’adore apprendre vite… et transmettre encore plus vite.</p>
+- 💼 Je construis des outils pour les devs qui veulent gagner en visibilité et percer sur le marché.
+- 🔥 Je partage mes projets, formations et conseils chaque semaine.
+- 🧠 J’adore apprendre vite… et transmettre encore plus vite.
 
 ---
 
-<h2 align="center">🔗 Liens utiles</h2>
+## 🔗 Liens utiles
 
-<p align="center">- 📌 [LinkedIn](https://www.linkedin.com/in/romain-ares/) -> **top 2%**</p>
-<p align="center">- 💌 [Newsletter Boost&Shine](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7313721055716495360)</p>
-<p align="center">- 💬 [Discord Boost&Shine](https://discord.gg/F6uSHqUAKB)</p>
-<p align="center">- 🟡 [CodinGame](https://www.codingame.com/profile/e234d6b24acc99e847d139a118db7cc97222874) -> **top 0.1%**</p>
+- 📌 [LinkedIn](https://www.linkedin.com/in/romain-ares/) -> **top 2%**
+- 💌 [Newsletter Boost&Shine](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7313721055716495360)
+- 💬 [Discord Boost&Shine](https://discord.gg/F6uSHqUAKB)</p>
+- 🟡 [CodinGame](https://www.codingame.com/profile/e234d6b24acc99e847d139a118db7cc97222874) -> **top 0.1%**
 
 ---
 
