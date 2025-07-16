@@ -50,19 +50,19 @@
 
 ## 🧠 Stack & Technologies
 
-### ⚙️ Langages & Frameworks
+<h2 align="center">⚙️ Langages & Frameworks</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,jquery,nodejs,express,python" alt="Langages et Frameworks" />
 </p>
 
-<h2 align="center">### 🗃️ Bases de données<h2 />
+<h2 align="center"> 🗃️ Bases de données<h2 />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de données" />
 </p>
 
-### 🎨 UI & Libs
+<h2 align="center">🎨 UI & Libs</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="UI et Librairies" />
