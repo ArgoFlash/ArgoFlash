@@ -73,6 +73,7 @@ Développement d’API · Automatisation de tâches · Développement d’extens
 Machine Learning · LLM  
 Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)
 
+---
 
 > "Le code rapide, c’est bien. Le code utile, c’est mieux." —> Arès Romain 🟥🟨
 
