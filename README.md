@@ -14,15 +14,15 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArgoFlash&show_icons=true&theme=tokyonight&hide_title=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArgoFlash&show_icons=true&theme=maroongold&hide_title=true" alt="Stats GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArgoFlash&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArgoFlash&theme=maroongold" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgoFlash&layout=compact&theme=tokyonight" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgoFlash&layout=compact&theme=maroongold" alt="Langages" />
 </p>
 
 ---
