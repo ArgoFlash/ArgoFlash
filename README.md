@@ -70,9 +70,9 @@
 
 <h3 align="center">🧩 Autres compétences</h3>
 
-<p align="center">Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD  
-Machine Learning · LLM  
-Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)</p>
+<p align="center">Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD</p>  
+<p align="center">Machine Learning · LLM</p>  
+<p align="center">Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)</p>
 
 ---
 
