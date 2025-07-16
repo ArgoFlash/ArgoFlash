@@ -39,16 +39,16 @@
 
 ---
 
-## 🔗 Liens utiles
-
+<h2 align="center">🔗 Liens utiles</h2>
+<p align="center">
 - 📌 [LinkedIn](https://www.linkedin.com/in/romain-ares/) -> **top 2%**
 - 💌 [Newsletter Boost&Shine](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7313721055716495360)
 - 💬 [Discord Boost&Shine](https://discord.gg/F6uSHqUAKB)
 - 🟡 [CodinGame](https://www.codingame.com/profile/e234d6b24acc99e847d139a118db7cc97222874) -> **top 0.1%**
-
+</p>
 ---
 
-## 🧠 Stack & Technologies
+<h2 align="center">🧠 Stack & Technologies</h2>
 
 <h2 align="center">⚙️ Langages & Frameworks</h2>
 
@@ -68,14 +68,14 @@
   <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="UI et Librairies" />
 </p>
 
-### 🧩 Autres compétences
+<h2 align="center">🧩 Autres compétences</h2>
 
-Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD  
+<p align="center">Développement d’API · Automatisation de tâches · Développement d’extensions Chrome · RGPD  
 Machine Learning · LLM  
-Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)
+Développement & maintenance de bots Discord (modération, automatisation, gestion de rôles et d’APIs)</p>
 
 ---
 
-> "Le code rapide, c’est bien. Le code utile, c’est mieux." —> Arès Romain 🟥🟨
+<p align="center"> "Le code rapide, c’est bien. Le code utile, c’est mieux." —> Arès Romain 🟥🟨</p>
 
 
