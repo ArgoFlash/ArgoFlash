@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>Développeur frontend ultra-rapide | Mentor de développeurs juniors | Partageur de valeur</em>
+  <em>Développeur fullstack et IA | Mentor de développeurs juniors | Partageur de valeur</em>
 </p>
 
 ---
