@@ -1,6 +1,6 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner-flash.png" alt="Flash Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQG0q7nU-KyVjw/profile-displaybackgroundimage-shrink_350_1400/B4EZfc9_mRGwAg-/0/1751758929001?e=1758153600&v=beta&t=N-Szcl36Ro45VdxPmR57b0CjKSfVLoMU65OcqkCxEFU" alt="Flash Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Romain aka ArgoFlash ⚡</h1>
